@@ -1,47 +1,53 @@
-### Hi there 👋
+# Hey, I'm Mahbubur Rahman 👋
 
-## About Me
+**Lead Engineer** with 9+ years building production-grade systems across insurance, telecom, and education. I care about clean architecture, scalable design, and shipping things that actually work.
 
-I am a passionate .NET developer with a keen interest in Software architectures, design patterns, Angular etc. I love building robust and scalable applications that solve real-world problems.
+---
 
-- 🔭 I’m currently working on .NET, Angular, SQL Server and bunch of other stuff.
-- 🌱 I’m actively enhancing my knowledge on different architectures and design patterns.
-- 💬 Ask me about .NET, software architectures.
-- 📫 How to reach me: mahbub.moon6@gmail.com.
+## 🔧 What I Work With
 
-## Skills
+**Backend**
+`C#` `ASP.NET Core` `Entity Framework` `.NET 6/7/8` `RESTful APIs` `Microservices`
 
-- C#
-- ASP.NET Core
-- Entity Framework
-- SQL Server
-- RESTful APIs
-- Angular
+**Frontend**
+`Angular` `TypeScript`
 
-## Connect with Me
+**DevOps & Cloud**
+`Docker` `Kubernetes` `CI/CD` `Azure`
 
-- [LinkedIn](https://www.linkedin.com/in/mahbuburmoon)
+**Data**
+`SQL Server` `NoSQL`
 
-## GitHub Stats
+---
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahbubmoon&show_icons=true&hide=issues&theme=radical)](https://github.com/mahbubmoon)
+## 🚀 A Few Things I've Built
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubmoon&layout=compact&theme=radical)
+- **CLiCS (MetLife)** — Claims management platform optimized for high-throughput insurance workflows
+- **PAPS** — Production deployment & integration for critical insurance services
+- **Education Management System** — Scalable academic data platform for MediaSoft
+- **Service Request Management (Grameenphone)** — Customer ops platform reducing manual resolution time
 
+> 20+ production systems shipped across my career.
 
+---
 
+## 📌 Currently
 
-<!--
-**mahbubmoon/mahbubmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Working with `.NET`, `Angular`, `Docker`, `Kubernetes`
+- 🌱 Deepening expertise in **AI/ML integration** and **distributed systems architecture**
+- 💬 Ask me about **.NET**, **software architecture**, **design patterns**, **scalable systems**
+- 📫 Reach me at **mahbub.moon6@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahbubmoon&show_icons=true&hide=issues&theme=radical)](https://github.com/mahbubmoon)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubmoon&layout=compact&theme=radical)
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahbuburmoon-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahbuburmoon)
+[![Email](https://img.shields.io/badge/Email-mahbub.moon6@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahbub.moon6@gmail.com)
